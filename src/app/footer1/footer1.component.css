@@ -1,0 +1,82 @@
+/* .margin{
+    margin: 0px 0px 0px 70px;
+}
+a{
+    color: #414141;
+    text-decoration: none;
+}
+a:hover{
+    color: orange;
+    
+}
+.free-mobile{
+    color: #8E8E8E;
+    font-size: 12px;
+}
+.nav > li > a {
+    padding: 0px 6px;
+}
+.padd{
+    padding:10px 10px;
+}
+.margin1{
+    margin: 0px 0px 0px 28px;}
+.paddin{
+    padding: 10px;
+}
+.nav > li > a:hover{
+    background-color:transparent;
+} */
+.margi
+{
+    margin: 0px 0px 0px 85px;
+}
+a
+{
+    color: #414141;
+    text-decoration: none;
+}
+a:hover
+{
+    color: orange;
+}
+.mar
+{
+    margin: 0px 0px 0px 110px;
+    color: #414141;
+}
+.nav > li > a:hover
+{
+    background-color:transparent;
+}
+.align
+{
+    margin: 0px 0px 0px 109px; 
+}
+.navbar-nav > li > a {
+    padding-top: 0px;
+    padding-bottom: 0px; 
+}
+.nav > li > a{
+    padding: 0px;
+}
+.pad{
+    padding:12px;
+}
+.bor{
+    border: 1px solid #dedede;
+    border-radius:50%;
+    padding: 10px;
+}
+.m:hover{
+    color:#009688a3;
+}
+.n:hover{
+    color:blue;
+}
+.o:hover{
+    color:black;
+}
+li.a.i.show:hover{
+display: block;
+}

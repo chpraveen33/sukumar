@@ -1,0 +1,14 @@
+.btn
+{
+padding:10px 32px;
+}
+.btn-primary
+{
+
+    background-color:orange;
+    border-color:orange;
+}
+.margin
+{
+    margin-top: 10px;
+}

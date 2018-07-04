@@ -1,0 +1,22 @@
+.color{
+   color:#a5a5a5;
+}
+.color1{
+    color:black;
+    font-size:20px;
+}
+.bord{
+    border:1px solid #dedede;
+}
+.color3{
+   background-color: #ffffff
+}
+a:hover{
+    color:orange;
+}
+.btn-primary{
+    padding: 5px 0px;
+}
+.border{
+    border-color: #dee2e6 #dee2e6 #fff;
+}

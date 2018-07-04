@@ -1,0 +1,36 @@
+.margi
+{
+    margin: 0px 0px 0px 85px;
+}
+a
+{
+    color: #414141;
+    text-decoration: none;
+}
+a:hover
+{
+    color: orange;
+}
+.mar
+{
+    margin: 0px 0px 0px 110px;
+    color: #414141;
+}
+.nav > li > a:hover
+{
+    background-color:transparent;
+}
+.align
+{
+    margin: 0px 0px 0px 109px; 
+}
+.navbar-nav > li > a {
+    padding-top: 0px;
+    padding-bottom: 0px; 
+}
+.nav > li > a{
+    padding: 0px;
+}
+.pad{
+    padding:12px;
+}
